@@ -1,6 +1,6 @@
-# 🧠 PairWise Alpha Round 3 Starter Kit
+# 🧠 PairWise Alpha Round 3 
 
-Welcome to the official starter repo for **[Lunor Quest: PairWise Alpha Round 3](https://app.lunor.quest/challenge/1000036)**.
+
 
 Your mission is to create a **deterministic trading strategy** that identifies profitable relationships between target coins and anchor coins (BTC, ETH, SOL, and others), executing trades with dynamic position sizing based on predictable patterns.
 
